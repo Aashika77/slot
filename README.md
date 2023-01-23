@@ -1,4 +1,4 @@
-# Experiment_Timr_Table
+# Experiment_Time_Table
 
 
 ## AIM
