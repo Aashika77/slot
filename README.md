@@ -109,12 +109,13 @@ Execute the program
 </table>
 </body>
 </html>
+'''
 
 # OUTPUT
-![OUTPUT](http://aashika.student.saveetha.in:8000/static/images/outt.png)?raw*true)
+![OUTPUT]http://aashika.student.saveetha.in:8000/static/images/outt.png?raw*true)
 
 # HTML VALIDATION
-![HTML VALIDATION](http://aashika.student.saveetha.in:8000/static/images/valid.png)?raw*true)
+![HTML VALIDATION](http://aashika.student.saveetha.in:8000/static/images/valid.png?raw*true)
 
 # RESULT
 The program for creating slot timetamle is completed successfully 
